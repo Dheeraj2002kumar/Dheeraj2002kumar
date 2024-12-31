@@ -46,7 +46,7 @@ I am actively solving problems on LeetCode to improve my problem-solving skills.
 
 - 📜 **LeetCode Profile**: [Dheeraj Kumar on LeetCode](https://leetcode.com/u/Dheeraj7321/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/u/Dheeraj7321?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/u/Dheeraj7321?ext=activity&theme=dark)
 
 ---
 
