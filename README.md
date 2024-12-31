@@ -41,6 +41,7 @@ Here are some of my favorite projects:
 
 ---
 
+
 ## 🏆 LeetCode Progress
 
 I am actively solving problems on LeetCode to improve my problem-solving skills. Here's a snapshot of my progress:
@@ -50,7 +51,6 @@ I am actively solving problems on LeetCode to improve my problem-solving skills.
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/u/Dheeraj7321?ext=heatmap&theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats" />
 </div>
-
 
 ---
 
