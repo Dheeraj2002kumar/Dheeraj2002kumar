@@ -31,6 +31,16 @@ Here are some of my favorite projects:
 
 ---
 
+## 📊 Language Usage
+
+Here’s a breakdown of the languages I use most often:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj2002kumar&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
 ## 🔧 Tools & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
