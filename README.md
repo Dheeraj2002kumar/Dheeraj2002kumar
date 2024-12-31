@@ -41,6 +41,15 @@ Here are some of my favorite projects:
 
 ---
 
+## 🏆 LeetCode Progress
+I am actively solving problems on LeetCode to improve my problem-solving skills. Here's my LeetCode profile:
+
+- 📜 **LeetCode Profile**: [Dheeraj Kumar on LeetCode](https://leetcode.com/u/Dheeraj7321/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/u/Dheeraj7321?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+
+---
+
 ## 📈 GitHub Stats
 ![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dheeraj2002kumar&show_icons=true&theme=radical)
 
@@ -49,6 +58,5 @@ Here are some of my favorite projects:
 ## 📬 Connect with Me
 - 📧 Email: dk8549644@gmail.com
 - 🔗 LinkedIn: [Dheeraj Kumar](https://www.linkedin.com/in/dheeraj-kumar-2002)
-
 
 Thanks for visiting my profile! Don't forget to star ⭐ my repositories if you find them useful!
