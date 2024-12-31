@@ -5,8 +5,8 @@ Hi there! I'm **Dheeraj Kumar**, a passionate **Frontend Developer** transitioni
 ---
 
 ## 🚀 About Me
-- 🎓 **Education**: 
-  - Master of Computer Applications (MCA), Dr. Shyama Prasaad Mukherjee University, Ranchi
+- 🎓 **Education**:
+  - Mainer In CSE and NextGen Technology, IIT Mandi
   - Bachelor of Science in Information Technology, Dr. Shyama Prasaad Mukherjee University, Ranchi (Completed in 2024)
   - Certified in **Data Science** by Simplilearn in collaboration with IBM.
 
@@ -18,9 +18,6 @@ Hi there! I'm **Dheeraj Kumar**, a passionate **Frontend Developer** transitioni
   - Frontend: React, JavaScript, HTML, CSS
   - Backend: Python, PHP, SQL
   - Data Science: Python, R, Machine Learning, Deep Learning, Tableau
-
-- 🎮 **Other Interests**:
-  - Gaming content creator on [YouTube](https://www.youtube.com/@Dheeraj_player) with gameplay videos like *Subway Surfers*.
 
 ---
 
@@ -50,8 +47,8 @@ Here are some of my favorite projects:
 ---
 
 ## 📬 Connect with Me
-- 📧 Email: dheeraj2002kumar@gmail.com
+- 📧 Email: dk8549644@gmail.com
 - 🔗 LinkedIn: [Dheeraj Kumar](https://www.linkedin.com/in/dheeraj-kumar-2002)
-- 🎮 YouTube: [Dheeraj_player](https://www.youtube.com/@Dheeraj_player)
+
 
 Thanks for visiting my profile! Don't forget to star ⭐ my repositories if you find them useful!
