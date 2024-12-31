@@ -31,15 +31,6 @@ Here are some of my favorite projects:
 
 ---
 
-## 📊 Language Usage
-
-Here’s a breakdown of the languages I use most often:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj2002kumar&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
 
 ## 🔧 Tools & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -58,9 +49,9 @@ I am actively solving problems on LeetCode to improve my problem-solving skills.
 
 - 📜 **LeetCode Profile**: [Dheeraj Kumar on LeetCode](https://leetcode.com/u/Dheeraj7321/)
 
-<div align="center">
+
   <img src="https://leetcard.jacoblin.cool/u/Dheeraj7321?ext=heatmap&theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats" />
-</div>
+
 
 ---
 
