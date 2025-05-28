@@ -15,8 +15,8 @@ Hi there! I'm **Dheeraj Kumar**, a passionate **Frontend Developer** transitioni
   - Practicing **Data Analysis** and solving coding problems on **LeetCode**.
 
 - 🌟 **Skills**:
-  - Frontend: React, JavaScript, HTML, CSS
-  - Backend: Python, PHP, SQL
+  - Frontend: React, JavaScript, HTML, CSS, SASS, SCSS
+  - Backend: Python, PHP, SQL, NoSQL(MongoDB), NodeJS, ExpressJS
   - Data Science: Python, R, Machine Learning, Deep Learning, Tableau
 
 ---
