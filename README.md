@@ -70,6 +70,7 @@ I am actively solving problems on LeetCode to improve my problem-solving skills.
 
 ## 📬 Connect with Me
 - 📧 Email: dk8549644@gmail.com
+- 📧 Email: o2400106@cce.iitmandi.ac.in
 - 🔗 LinkedIn: [Dheeraj Kumar](https://www.linkedin.com/in/dheeraj-kumar-2002)
 
 Thanks for visiting my profile! Don't forget to star ⭐ my repositories if you find them useful!
