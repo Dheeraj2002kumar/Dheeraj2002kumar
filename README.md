@@ -28,6 +28,8 @@ Here are some of my favorite projects:
 2. **[Milk Product](https://github.com/Dheeraj2002kumar/Milk-Product)**: An e-commerce app for milk products.
 3. **[QTrip](https://github.com/Dheeraj2002kumar/QTrip)**: A travel website offering adventures in various cities.
 4. **[XBoard](https://github.com/Dheeraj2002kumar/XBoard)**: A news feed site fetching the latest updates from Flipboard.
+5. **[QKart](https://dk8549644-me-qkart-frontend-v2-p609i926z.vercel.app/)**: E-Commerce Application
+6. **[QTify](https://qtify-seven-lac.vercel.app/)**: Music Applicationn using React
 
 ---
 
