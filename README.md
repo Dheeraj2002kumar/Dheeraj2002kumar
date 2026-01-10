@@ -58,15 +58,6 @@ I am actively solving problems on LeetCode to improve my problem-solving skills.
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
-  <a href="https://github.com/Dheeraj2002kumar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dheeraj2002kumar&show_icons=true&theme=radical&hide=issues" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj2002kumar&theme=radical" />
-  </a>
-</div>
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Dheeraj2002kumar&theme=radical&margin-w=15&margin-h=15&column=6" />
-</div>
 
 <p align="center">
   <a href="https://github.com/Dheeraj2002kumar">
