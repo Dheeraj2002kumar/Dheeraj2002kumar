@@ -55,8 +55,9 @@ I am actively solving problems on LeetCode to improve my problem-solving skills.
   <img src="https://leetcard.jacoblin.cool/Dheeraj7321?theme=dark&font=JetBrains%20Mono" />
 
 <a href="https://leetcode.com/u/Dheeraj7321/">
-  <img src="https://img.shields.io/badge/LeetCode-Dheeraj7321-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://leetcard.jacoblin.cool/Dheeraj7321?theme=dark&font=JetBrains%20Mono" />
 </a>
+
 
 
 
