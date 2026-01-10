@@ -55,7 +55,7 @@ I actively solve **Data Structures & Algorithms** problems on LeetCode to streng
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dheeraj7321?theme=light&font=JetBrains%20Mono&background=transparent" />
+   <img src="https://leetcard.jacoblin.cool/Dheeraj7321?theme=dark&font=JetBrains%20Mono" />
 </p>
 
 <p align="center">
