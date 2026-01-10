@@ -47,15 +47,20 @@ Here are some of my favorite projects:
 
 ## 🏆 LeetCode Progress
 
-I am actively solving problems on LeetCode to improve my problem-solving skills. Here's a snapshot of my progress:
+I actively solve **Data Structures & Algorithms** problems on LeetCode to strengthen my problem-solving skills.
 
-- 📜 **LeetCode Profile**: [Dheeraj Kumar on LeetCode](https://leetcode.com/u/Dheeraj7321/)
+<p align="center">
+  📜 <b>LeetCode Profile</b><br/>
+  <a href="https://leetcode.com/u/Dheeraj7321/">leetcode.com/u/Dheeraj7321</a>
+</p>
 
-
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/Dheeraj7321?theme=dark&font=JetBrains%20Mono" />
+</p>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Dheeraj7321" />
-
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Dheeraj7321" />
+</p>
 
 
 
