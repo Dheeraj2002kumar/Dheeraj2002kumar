@@ -68,6 +68,16 @@ I am actively solving problems on LeetCode to improve my problem-solving skills.
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Dheeraj2002kumar&theme=radical&margin-w=15&margin-h=15&column=6" />
 </div>
 
+<p align="center">
+  <a href="https://github.com/Dheeraj2002kumar">
+    <img src="https://img.shields.io/badge/GitHub-Dheeraj2002kumar-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/u/Dheeraj7321/">
+    <img src="https://img.shields.io/badge/LeetCode-Dheeraj7321-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+
 ---
 
 ## 📬 Connect with Me
