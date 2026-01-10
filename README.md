@@ -55,12 +55,13 @@ I actively solve **Data Structures & Algorithms** problems on LeetCode to streng
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dheeraj7321?theme=dark&font=JetBrains%20Mono" />
+  <img src="https://leetcard.jacoblin.cool/Dheeraj7321?theme=light&font=JetBrains%20Mono&background=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Dheeraj7321" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Dheeraj7321&theme=transparent" />
 </p>
+
 
 
 
