@@ -45,6 +45,12 @@ Here are some of my favorite projects:
 ---
 
 
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
 ## 🏆 LeetCode Progress
 
 I actively solve **Data Structures & Algorithms** problems on LeetCode to strengthen my problem-solving skills.
