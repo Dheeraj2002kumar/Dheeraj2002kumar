@@ -295,7 +295,7 @@
 
 <h3>📈 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj2002kumar&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Dheeraj2002kumar&theme=neon" alt="Dheeraj's 3D Isometric Contributions Chart" width="100%" />
 </p>
 
 <h3>🐍 Contribution Snake</h3>
