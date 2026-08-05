@@ -194,7 +194,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>📰 XBoard</h3>
       <p>News Aggregator featuring category-based filtering and infinite scrolling.</p>
       <ul>
@@ -205,6 +205,24 @@
       <p>
         <a href="https://celebrated-figolla-ca12bb.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00C4FF?style=flat-square&logo=netlify&logoColor=black" alt="Live Demo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎟️ QEvent</h3>
+      <p>A premium Event Discovery and exploration portal to search, filter, and register events.</p>
+      <ul>
+        <li>Next.js 14 (App Router) & Tailwind CSS</li>
+        <li>Next-Auth (Google Provider) Integration</li>
+        <li>Dynamic Hero Carousel using Swiper</li>
+        <li>Event creation form with mock backend integration</li>
+      </ul>
+      <p>
+        <a href="https://q-event-dheeraj.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00C4FF?style=flat-square&logo=vercel&logoColor=black" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Dheeraj2002kumar/QEvent" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
         </a>
       </p>
     </td>
