@@ -224,7 +224,28 @@
         <a href="https://github.com/Dheeraj2002kumar/QEvent" target="_blank">
           <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
         </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 MedFlow AI (Hospital Triage)</h3>
+      <p>An intelligent hospital triage agent routing patients to departments and dynamically allocating doctor slots.</p>
+      <ul>
+        <li>FastAPI & LangGraph Workflow Engine</li>
+        <li>Safety Routing Guardrails & AI router (Llama 3.3)</li>
+        <li>Dynamic doctor slot scheduling database</li>
+        <li>Premium glassmorphic dashboard UI & modal schedules</li>
+      </ul>
+      <p>
+        <a href="https://hospital-agent-topaz.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00C4FF?style=flat-square&logo=vercel&logoColor=black" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Dheeraj2002kumar/Hospital-agent" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
       </p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
