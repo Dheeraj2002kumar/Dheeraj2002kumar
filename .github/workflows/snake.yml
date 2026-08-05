@@ -21,6 +21,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Fix dist folder permissions
+        run: sudo chown -R $USER:$USER dist
+
       - name: Generate Streak Stats SVG
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
