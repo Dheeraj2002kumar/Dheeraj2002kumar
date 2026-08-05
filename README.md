@@ -268,7 +268,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dheeraj2002kumar&theme=tokyonight&hide_border=true" height="175" />
+  <img src="https://raw.githubusercontent.com/Dheeraj2002kumar/Dheeraj2002kumar/output/profile-streak-stats.svg" alt="GitHub Streak Stats" height="175" />
 </p>
 
 
